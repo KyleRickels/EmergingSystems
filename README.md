@@ -4,15 +4,15 @@
   
   
 ### Project Summary 
-#### [Summarize the project and what problem it was solving.]
+##### [Summarize the project and what problem it was solving.]
 ### Successes 
-#### [What did you do particularly well?]
+##### [What did you do particularly well?]
 ### Areas for growth
-#### [Where could I improve]
+##### [Where could I improve]
 ### Tools and Resources
-#### [What tools and/or resources am I adding to my support network?]
+##### [What tools and/or resources am I adding to my support network?]
 ### New Skills
-#### [What skills from this project will be particularly transferable to other projects and/or course work?]
+##### [What skills from this project will be particularly transferable to other projects and/or course work?]
 ### Best Practices
-#### [How did you make this project maintainable, readable, and adaptable?]
+##### [How did you make this project maintainable, readable, and adaptable?]
 
