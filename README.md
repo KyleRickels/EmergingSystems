@@ -1,7 +1,4 @@
-# EmergingSystems 
-
-##### CS-350 Emerging Systems Architecture and Technology
-/# 
+# EmergingSystems <sub> CS-350 Emerging Systems Architecture and Technology </sub>
 
 
 ### Project Summary 
