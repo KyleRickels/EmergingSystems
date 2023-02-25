@@ -2,7 +2,7 @@
 CS-350 Emerging Systems Architecture and Technology
 
 
-## Project Summary 
+### Project Summary 
 #### [Summarize the project and what problem it was solving.]
 ## Successes 
 #### [What did you do particularly well?]
