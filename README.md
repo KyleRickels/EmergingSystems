@@ -25,7 +25,7 @@
 
 ### New Skills
 
-##### [What skills from this project will be particularly transferable to other projects and/or course work?]
+##### I work with embedded systems every day, and I learned many new things in this course. I now have a better understanding of the hardware architecture of embedded systems. This is important to understand when selecting hardware. I also gained a much deeper understanding of how the software interacts with the hardware. In my work, the device drivers and operating systems are abstracted. Diving in to the details gives more of a systems level view, enabling someone to make better choices.
 
 
 ### Best Practices
