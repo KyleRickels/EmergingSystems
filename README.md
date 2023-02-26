@@ -8,7 +8,7 @@
 ### Successes 
 ##### This project showcased my ability to meet all of the design requirements without adding features outside of the project scope. I used best practices to ensure the project meets design standards while keeping it simple.
 ### Areas for growth
-##### One area I can improve is this::::::::::::::
+##### While this program is fully functional, one area I can improve is code organization and file structure. For better organization, the functions can be moved to separate files and header files. Another way to organize them is to declare the functions at the top and build the functions below the main. The thermostat project did not require much code, however for a larger project the code should be organized differently. That will keep it manageable as it scales up.
 
 ### Tools and Resources
 ##### [What tools and/or resources am I adding to my support network?]
