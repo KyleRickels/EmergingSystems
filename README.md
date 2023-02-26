@@ -31,7 +31,6 @@
 ### Best Practices
 
 ##### To keep the project maintainable, readable, and adaptable, I followed Embedded Systems coding best practices. This can be seen where the state machines shown in diagram are converted to C. Local variables are used within the state machines and global variables are used for data that needs to be shared with multiple state machines. The global variables have a _g suffix for easy identification. On power up, and in the event of a failure, all state machines default to their initialization state. The button flag variables are declared as volatile because the button interrupts are never explicitly called. Not declaring them as volatile may cause the compiler to optimize them away. Similarly, the local variables are declared as static to ensure their values are maintained through function calls.
-
 ##### Further, I avoided several common pitfalls. Every state machine transition condition is mutually exclusive and there is always a condition that evaluates to true. No state machine transitions wait on an external input. Some inputs are sampled, and some generate interrupts. 
 
 
